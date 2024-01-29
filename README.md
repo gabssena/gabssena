@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/564x/f0/39/56/f0395689242a563195ba2e33c4d78e83.jpg" />
 </div>
 
-<div align="center">  
+<div align="center"><br>  
 <p>Oie! Eu sou a Gabi e este é meu laboratório de estudos e experiências. </p>
 </div>
 
